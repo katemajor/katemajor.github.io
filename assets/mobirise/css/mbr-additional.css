@@ -9,227 +9,105 @@
 
 
 
-#header1-1q .btn {
+
+#menu-0 .navbar-toggler {
+  color: #000;
+}
+#menu-0 .navbar-brand {
+  font-size: 24px;
+}
+#menu-0 .nav-link {
+  font-size: 18px;
   font-family: 'Oswald', sans-serif;
 }
-#header1-1q H1 {
+#header1-1 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-1 H1 {
   color: #f9b823;
   font-size: 80px;
   text-align: right;
   font-family: 'Lora', serif;
 }
-#header1-1q P {
+#header1-1 P {
   color: #e4a820;
   text-align: right;
   font-size: 30px;
   font-family: 'Playfair Display', sans-serif;
 }
-#content5-4n .mbr-section-title {
+#content5-2 .mbr-section-title {
   color: #3d0878;
   text-align: center;
   font-size: 60px;
 }
-#content5-4n .mbr-section-title B {
+#content5-2 .mbr-section-title B {
   font-size: 60px;
 }
-#content5-4n P {
+#content5-2 P {
   font-size: 36px;
   font-family: 'Alegreya Sans', sans-serif;
   text-align: left;
   color: #250a45;
 }
-#content5-3n .mbr-section-title {
+#content5-3 .mbr-section-title {
   color: #3d0878;
   text-align: center;
   font-size: 60px;
 }
-#content5-3n .mbr-section-title B {
+#content5-3 .mbr-section-title B {
   font-size: 60px;
 }
-#content5-3n P {
+#content5-3 P {
   font-size: 36px;
   font-family: 'Alegreya Sans', sans-serif;
-  text-align: left;
+  text-align: center;
   color: #3d0878;
 }
-#contacts3-1g P {
-  font-size: 21px;
-  color: #cfeff6;
-}
-#contacts3-1g STRONG {
-  color: #f9b823;
-  font-size: 24px;
-}
-#contacts3-1g B {
-  color: #c8eeec;
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#contacts3-1g I {
-  font-size: 19px;
-}
-#contacts3-1g UL {
-  color: #f9b823;
-  font-size: 21px;
-}
-#content5-4y .mbr-section-title {
+#content5-5 .mbr-section-title {
   color: #3d0878;
   text-align: left;
   font-size: 46px;
 }
-#content5-4y .mbr-section-title B {
+#content5-5 .mbr-section-title B {
   font-size: 60px;
 }
-#content5-4y P {
-  font-size: 36px;
+#content5-5 P {
+  font-size: 46px;
   font-family: 'Alegreya Sans', sans-serif;
   text-align: left;
   color: #3d0878;
 }
-#contacts1-4z B {
+#contacts1-6 B {
   font-size: 24px;
   color: #f1c050;
 }
-#contacts1-4z STRONG {
+#contacts1-6 STRONG {
   font-size: 24px;
   color: #f1c050;
 }
-#contacts1-4z P {
-  font-size: 20px;
+#contacts1-6 P {
+  font-size: 21px;
   color: #f1c050;
 }
-#contacts1-4z DIV {
+#contacts1-6 DIV {
   color: #f1c050;
 }
-
-
-
-#contacts3-2z P {
+#contacts3-9 P {
   font-size: 21px;
   color: #cfeff6;
 }
-#contacts3-2z STRONG {
+#contacts3-9 STRONG {
   color: #f9b823;
   font-size: 24px;
 }
-#contacts3-2z B {
-  color: #c8eeec;
+#contacts3-9 B {
+  color: #f1c050;
   font-family: 'Alegreya Sans', sans-serif;
 }
-#contacts3-2z I {
+#contacts3-9 I {
   font-size: 19px;
 }
-#contacts3-2z UL {
+#contacts3-9 UL {
   color: #f9b823;
   font-size: 21px;
-}
-#menu-30 .navbar-toggler {
-  color: #5309a6;
-}
-#menu-30 .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-}
-#menu-30 .nav-link {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-}
-
-
-
-#contacts3-3i P {
-  font-size: 21px;
-  color: #cfeff6;
-}
-#contacts3-3i STRONG {
-  color: #f9b823;
-  font-size: 24px;
-}
-#contacts3-3i B {
-  color: #c8eeec;
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#contacts3-3i I {
-  font-size: 19px;
-}
-#contacts3-3i UL {
-  color: #f9b823;
-  font-size: 21px;
-}
-#menu-3j .navbar-toggler {
-  color: #5309a6;
-}
-#menu-3j .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-}
-#menu-3j .nav-link {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-}
-
-
-
-#contacts3-3z P {
-  font-size: 21px;
-  color: #cfeff6;
-}
-#contacts3-3z STRONG {
-  color: #f9b823;
-  font-size: 24px;
-}
-#contacts3-3z B {
-  color: #c8eeec;
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#contacts3-3z I {
-  font-size: 19px;
-}
-#contacts3-3z UL {
-  color: #f9b823;
-  font-size: 21px;
-}
-#menu-40 .navbar-toggler {
-  color: #5309a6;
-}
-#menu-40 .navbar-brand {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-}
-#menu-40 .nav-link {
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
-}
-
-
-#contacts3-4o P {
-  font-size: 21px;
-  color: #cfeff6;
-}
-#contacts3-4o STRONG {
-  color: #f9b823;
-  font-size: 24px;
-}
-#contacts3-4o B {
-  color: #c8eeec;
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#contacts3-4o I {
-  font-size: 19px;
-}
-#contacts3-4o UL {
-  color: #f9b823;
-  font-size: 21px;
-}
-#header1-4p .btn {
-  font-family: 'Oswald', sans-serif;
-}
-#header1-4p H1 {
-  color: #d5f4f0;
-  font-size: 80px;
-  text-align: right;
-}
-#header1-4p P {
-  color: #a8d0ea;
-  text-align: left;
-  font-size: 25px;
 }

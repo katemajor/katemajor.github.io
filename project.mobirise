@@ -1,33 +1,21 @@
 {
   "settings": {
-    "name": "cloned site 2142",
+    "name": "Site-12-12_1922",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
-        "#a597b5",
-        "#1f190c",
-        "#a6e2f4",
-        "#5309a6",
-        "#3d0878",
-        "#e4a820",
-        "#618094"
+        "#460b92"
       ]
     },
     "path": "@PROJECT_PATH@",
-    "versionFirst": "4.7.2",
-    "uniqCompNum": 180,
-    "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png",
+    "versionFirst": "4.8.6",
     "siteFonts": [],
-    "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "",
-    "cookiesAlert": "",
-    "gdpr": "",
-    "siteUrl": "undefined"
+    "uniqCompNum": 12,
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -40,6 +28,58 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fbf2be",
+            "hamburgerColor": "#000"
+          },
+          "items": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"file:///C:/Users/Kate/AppData/Local/Temp/Mobirise2018114_2171/20181204_212116/page1.html\"><br><br></a></li>    ",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-primary-outline btn-primary\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c7b5db",
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Welcome. &nbsp;Scroll Through a Few Pages to Learn about my Approach, Prices and How to Book Your Apointment</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-size": "24px"
+            },
+            ".nav-link": {
+              "font-size": "18px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "menu-0"
+        },
         {
           "_params": {
             "showTitle": false,
@@ -88,7 +128,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           },
-          "_anchor": "header1-1q"
+          "_anchor": "header1-1"
         },
         {
           "_params": {
@@ -133,14 +173,14 @@
               "color": "#250a45"
             }
           },
-          "_anchor": "content5-4n"
+          "_anchor": "content5-2"
         },
         {
           "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/starry-night-sky-cropped-1421x1749.jpg",
             "parallax": false,
@@ -152,10 +192,10 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.3"
           },
           "title": "How Much Are Your Readings <br>and <br>How Do I Book an Appointment?",
-          "caption": "<p><b>A 60 minute reading is $100</b>. When readings extend beyond this time,  there is a $10 charge every 10 minutes. Most readings are between 60 and 90 minutes, depending on how indepth the reading takes us. In the longer reading, there is an opportunity to peek at your palms and see how the overall direction of your life, as revealed by the palms, intertwines with the immediate concerns for which the Tarot is supberbly suited for.</p><p>Readings for home parties, bridal showers, special events or corporate functions are between 10/20 minutes and  the cost is $25/$45, per person. Each event is unique and you can call me to discuss the details of your requirements.</p><p><i><b>To Book: </b>phone&nbsp;<b>403-652-3525 </b>or email: <b>majorarcana50@hotmail.com</b></i></p><p>When you call, we can have a short chat about the reasons you would like a reading and I can begin the process of tuning into the supportive energies within and around you. &nbsp;A reading can usually be arranged within 3 days. Readings are done by phone, easy to set up video call, or the traditional way--- in person.</p><p><br></p>",
+          "caption": "<p><b>An hour reading costs: $100</b>.&nbsp;</p><p><b>90 minutes for even more depth costs:$130.</b></p><p>In the longer reading, there is an opportunity to peek at your palms and see how the overall direction of your life, as revealed by the palms, intertwines with your immediate concerns and plan of action, as revealed by the Tarot.</p><p><b>Corporate Parties: $135. per hour. &nbsp; &nbsp; 2 hour minimum</b></p><p><b>Readings for home parties, bridal showers, or other private functions are about 20 minutes and the cost is $40 per person. </b></p><p>Each gathering is unique and you can call me to discuss the details of your event.\n</p><p>When you call, we can have a short chat about the reasons you would like a reading and I can begin the process of tuning into the supportive energies within and around you. &nbsp;A reading can usually be arranged within 3 days. </p><p><b>phone: 403-652-3525 or email: majorarcana50@hotmail.com</b></p><p>\n</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -174,88 +214,15 @@
               "font-size": "36px",
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
-              "text-align": "left",
+              "text-align": "center",
               "color": "#3d0878"
             }
           },
-          "_anchor": "content5-3n"
+          "_anchor": "content5-3"
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/starry-night-sky-cropped-bottom-1420x426.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#37383e",
-            "overlay": false,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0"
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Kate</a>",
-          "text1": "<b>Private Power Readings</b><br>Home Parties<br>Corporate Gatherings<br>Learn the Basics&nbsp;<br>Become a professional reader<br><br><br><br><br>",
-          "text2": "<strong>&nbsp; &nbsp; &nbsp;Send an email</strong><ul><li>to inquire or book</li><li>phone if you prefer</li><li>403 652 3525</li><li>www.tarotbykatemajor.com<a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-warning\">&nbsp;</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "majorarcana50@hotmail.com",
-            "alerts": {
-              "success": "Thanks for the opportunity to serve. I will reply within 24 hours."
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-1g",
-          "_styles": {
-            "P": {
-              "font-size": "21px",
-              "color": "#cfeff6"
-            },
-            "STRONG": {
-              "color": "#f9b823",
-              "font-size": "24px"
-            },
-            "B": {
-              "color": "#c8eeec",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
-            },
-            "I": {
-              "font-size": "19px"
-            },
-            "UL": {
-              "color": "#f9b823",
-              "font-size": "21px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showCaption": true,
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -272,8 +239,8 @@
             "overlayColor": "#fff",
             "overlayOpacity": "0.6"
           },
-          "title": "<br>Wait there is more...",
-          "caption": "<p>Are you interested in learning how to read for yourself or others?&nbsp;<br></p><p>\nHas anyone ever told you that you would be a very good tarot reader or considered offering readings but lack the training or confidence?&nbsp;</p><p>\nI have plans to teach Tarot through video classes online as well as continue teaching in person. Those who want to learn for their own enjoyment as well as people who feel called to become readers themselves will benefit from my classes. I also plan to create a membership site, where we can meet on line to continue our personal and spiritual growth using the tool of Tarot. Coming January 2019.</p><p>\n</p><p>If you want to be one of the first to preview the online course for <b>free</b>, send me an email, expressing your interest in the free preveiw and your level of experience. Everyone is welcome.</p>",
+          "title": "",
+          "caption": "<p><i><b><br></b></i></p><p><i><b>Would You Like to Learn to Read Cards for Yourself or Others?</b></i><br></p><p><i>Has anyone ever told you that you would be a very good tarot reader or considered offering readings but lack the training or confidence? Then this is for you.<br></i></p><p>\nI have both a completely downloadable digital Tarot course for the independant student as well I will be offering video classes online and continue teaching workshops in person. Video classes include the live class recordings as well as the digital Tarot at home study course. </p><p>This course will benefit anyone who wants to learn for their own enjoyment as well as people who feel called to become readers themselves. </p><p>I also plan to create a membership site, where we can meet on line to continue our personal and spiritual growth using the tool of Tarot. Coming February 2019.</p><p>\n</p><p>If you want to be one of the first to preview parts of the digital course for <b>free</b>, send me an email, expressing your interest in this offer. &nbsp;Everyone is welcome.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -289,14 +256,14 @@
               "font-size": "60px"
             },
             "P": {
-              "font-size": "36px",
+              "font-size": "46px",
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "text-align": "left",
               "color": "#3d0878"
             }
           },
-          "_anchor": "content5-4y"
+          "_anchor": "content5-5"
         },
         {
           "_params": {
@@ -330,15 +297,14 @@
               "color": "#e4a820"
             }
           },
-          "text1": "Contacts\n<br>email:<br>majorarcana50@hotmail.com\n<br>Phone:<br> 403-652-3525\n<br>www.tarotbykatemajor.com\n<br><br>",
-          "text2": "Located:<br>South of Calgary, Alberta<br>in HIGH RIVER",
+          "text1": "",
+          "text2": "&nbsp;High River, Okotoks, Black Diamond, Turner Valley, Nanton, Calgary, Canmore, Banff.",
           "text3": "Use of services is not a substitute for professional financial, psychological or medical advice. By contracting me for my services, you understand that you are solely responsible for your outcomes.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-4z",
           "_styles": {
             "B": {
               "font-size": "24px",
@@ -349,159 +315,17 @@
               "color": "#f1c050"
             },
             "P": {
-              "font-size": "20px",
+              "font-size": "21px",
               "color": "#f1c050"
             },
             "DIV": {
               "color": "#f1c050"
             }
-          }
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "contact",
-        "order": 4
-      },
-      "components": [
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/starry-night-sky-cropped-bottom-1420x426.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#37383e",
-            "overlay": false,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0"
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Kate</a>",
-          "text1": "<b>Private Power Readings</b><br>Home Parties<br>Corporate Gatherings<br>Learn the Basics&nbsp;<br>Become a professional reader<br><br><br><br><br>",
-          "text2": "<strong>&nbsp; &nbsp; &nbsp;Send an email</strong><ul><li>to inquire or book</li><li>phone if you prefer</li><li>403 652 3525</li><li>www.tarotbykatemajor.com<a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-warning\">&nbsp;</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "sageseminars@live.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "font-size": "21px",
-              "color": "#cfeff6"
-            },
-            "STRONG": {
-              "color": "#f9b823",
-              "font-size": "24px"
-            },
-            "B": {
-              "color": "#c8eeec",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
-            },
-            "I": {
-              "font-size": "19px"
-            },
-            "UL": {
-              "color": "#f9b823",
-              "font-size": "21px"
-            }
-          },
-          "_anchor": "contacts3-2z"
+          "_anchor": "contacts1-6"
         },
         {
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#5309a6"
-          },
-          "items": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "magic-stick",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "47",
-              "color": "#5309a6",
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Inquire or book by phone 403-652 3525 or my email: &nbsp;majorarcana50@hotmail.com</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5309a6"
-            },
-            ".navbar-brand": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            },
-            ".nav-link": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "menu-30"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "",
-        "order": 3
-      },
-      "components": [
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": true,
@@ -509,286 +333,16 @@
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#37383e",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": "0"
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Kate</a>",
-          "text1": "<b>Private Power Readings</b><br>Home Parties<br>Corporate Gatherings<br>Learn the Basics&nbsp;<br>Become a professional reader<br><br><br><br><br>",
-          "text2": "<strong>&nbsp; &nbsp; &nbsp;Send an email</strong><ul><li>to inquire or book</li><li>phone if you prefer</li><li>403 652 3525</li><li>www.tarotbykatemajor.com<a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-warning\">&nbsp;</a></li></ul>",
+          "text1": "<b>Quick Contact form</b>",
+          "text2": "<ul></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "sageseminars@live.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "font-size": "21px",
-              "color": "#cfeff6"
-            },
-            "STRONG": {
-              "color": "#f9b823",
-              "font-size": "24px"
-            },
-            "B": {
-              "color": "#c8eeec",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
-            },
-            "I": {
-              "font-size": "19px"
-            },
-            "UL": {
-              "color": "#f9b823",
-              "font-size": "21px"
-            }
-          },
-          "_anchor": "contacts3-3i"
-        },
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#a6e2f4",
-            "hamburgerColor": "#5309a6"
-          },
-          "items": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "magic-stick",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "47",
-              "color": "#5309a6",
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Inquire or book by phone 403-652 3525 or my email: &nbsp;majorarcana50@hotmail.com</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5309a6"
-            },
-            ".navbar-brand": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            },
-            ".nav-link": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "menu-3j"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "title": "Page 3",
-        "order": 2
-      },
-      "components": [
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/starry-night-sky-cropped-bottom-1420x426.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#37383e",
-            "overlay": false,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0"
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Kate</a>",
-          "text1": "<b>Private Power Readings</b><br>Home Parties<br>Corporate Gatherings<br>Learn the Basics&nbsp;<br>Become a professional reader<br><br><br><br><br>",
-          "text2": "<strong>&nbsp; &nbsp; &nbsp;Send an email</strong><ul><li>to inquire or book</li><li>phone if you prefer</li><li>403 652 3525</li><li>www.tarotbykatemajor.com<a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-warning\">&nbsp;</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "sageseminars@live.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "font-size": "21px",
-              "color": "#cfeff6"
-            },
-            "STRONG": {
-              "color": "#f9b823",
-              "font-size": "24px"
-            },
-            "B": {
-              "color": "#c8eeec",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
-            },
-            "I": {
-              "font-size": "19px"
-            },
-            "UL": {
-              "color": "#f9b823",
-              "font-size": "21px"
-            }
-          },
-          "_anchor": "contacts3-3z"
-        },
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#a6e2f4",
-            "hamburgerColor": "#5309a6"
-          },
-          "items": "  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "magic-stick",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "47",
-              "color": "#5309a6",
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Inquire or book by phone 403-652 3525 or my email: &nbsp;majorarcana50@hotmail.com</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#5309a6"
-            },
-            ".navbar-brand": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            },
-            ".nav-link": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "menu-40"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "Page 4",
-        "order": 1
-      },
-      "components": [
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/starry-night-sky-cropped-bottom-1420x426.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#37383e",
-            "overlay": false,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0"
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Kate</a>",
-          "text1": "<b>Private Power Readings</b><br>Home Parties<br>Corporate Gatherings<br>Learn the Basics&nbsp;<br>Become a professional reader<br><br><br><br><br>",
-          "text2": "<strong>&nbsp; &nbsp; &nbsp;Send an email</strong><ul><li>to inquire or book</li><li>phone if you prefer</li><li>403 652 3525</li><li>www.tarotbykatemajor.com<a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-warning\">&nbsp;</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "sageseminars@live.com",
+            "action": "majorarcana50@hotmail.com",
             "alerts": {
               "success": "Thanks for the opportunity to serve. I will reply within 24 hours."
             },
@@ -829,7 +383,7 @@
               "font-size": "24px"
             },
             "B": {
-              "color": "#c8eeec",
+              "color": "#f1c050",
               "font-family": "'Alegreya Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
             },
@@ -841,53 +395,7 @@
               "font-size": "21px"
             }
           },
-          "_anchor": "contacts3-4o"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1557x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#d9534f",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Tarot by Kate Major",
-          "text": "&nbsp;Write your about me page here, there is lots of room. <br>Then write your contact info or invite them to scroll down to watch a video of what they can expect.&nbsp;<br>This page can do paragraphs too. There is quite a bit of room here.<br><br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "H1": {
-              "color": "#d5f4f0",
-              "font-size": "80px",
-              "text-align": "right"
-            },
-            "P": {
-              "color": "#a8d0ea",
-              "text-align": "left",
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "header1-4p"
+          "_anchor": "contacts3-9"
         }
       ]
     }
